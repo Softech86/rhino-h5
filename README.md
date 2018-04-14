@@ -28,7 +28,7 @@ If you want to implementation h5 page with simple animation, here are some possi
 
 Vue is totally redundant in this project. Simply gulp or webpack configuration can handle perfectly and lightweightly. Even `Wechat Mini Programs` may be better fit for the scene.
 
-## So why you implement like this
+## So why did I implement like this
 - Never used SVG before, lack experience
 - Forgot the existence of SVG libraries
 - Sooooo close deadline, without time to do the refactor
